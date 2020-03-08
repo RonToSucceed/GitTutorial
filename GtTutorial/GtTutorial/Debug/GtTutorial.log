@@ -1,6 +1,5 @@
-﻿  stdafx.cpp
-  AssemblyInfo.cpp
+﻿  AssemblyInfo.cpp
+e:\gitsource\gttutorial\gttutorial\assemblyinfo.cpp(1): fatal error C1853: 'Debug\GtTutorial.pch' 先行編譯標頭檔來自較舊版本的編譯器，或者先行編譯標頭檔是用 C++ 撰寫，而您是從 C 使用它 (反之亦然)
   GtTutorial.cpp
+e:\gitsource\gttutorial\gttutorial\gttutorial.cpp(1): fatal error C1853: 'Debug\GtTutorial.pch' 先行編譯標頭檔來自較舊版本的編譯器，或者先行編譯標頭檔是用 C++ 撰寫，而您是從 C 使用它 (反之亦然)
   正在產生程式碼...
-  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
-  GtTutorial.vcxproj -> E:\GitSource\GtTutorial\Debug\GtTutorial.exe
