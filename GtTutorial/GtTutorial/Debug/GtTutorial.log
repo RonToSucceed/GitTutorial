@@ -1,1 +1,6 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(314,5): error MSB6003: 無法執行指定的工作可執行檔 "CL.exe"。由於另一個處理序正在使用檔案 'C:\USERS\USER\DESKTOP\OOP遊戲\GITTUTORIAL\GTTUTORIAL\GTTUTORIAL\DEBUG\GTTUTORIAL.PCH'，所以無法存取該檔案。
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  GtTutorial.cpp
+  正在產生程式碼...
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  GtTutorial.vcxproj -> E:\GitSource\GtTutorial\Debug\GtTutorial.exe
